@@ -5,6 +5,6 @@ The system consists of a trained neural network that connected to a video survei
 will verify the identity of a certain employee and check the presence of an employee at the
 workplace. 
 
-Notebooks Direcotry contains the code of the project \n
-Sample Images Directory contains the image prototypes \n
-Model Directory contains the weights of trained models \n
+Notebooks Direcotry contains the code of the project <br />
+Sample Images Directory contains the image prototypes <br />
+Model Directory contains the weights of trained models <br />
