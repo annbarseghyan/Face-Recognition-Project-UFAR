@@ -7,4 +7,4 @@ workplace.
 
 Notebooks Direcotry contains the code of the project <br />
 Sample Images Directory contains the image prototypes <br />
-Model Directory contains the weights of trained models <br />
+Model Directory contains the weights of trained logistic regression, the weights of neural network had a higher size than supported by github<br />
